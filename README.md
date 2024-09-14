@@ -8,7 +8,7 @@ This project simulates the motion of planets around the Sun using Python's `turt
 - Python 3.x
 - Turtle Graphics (`turtle` module comes pre-installed with Python)
 
-# Code Explanation
+## Code Explanation
 # Sun
 The Sun is represented as a large yellow circle in the center of the screen.
 # Planet Class
